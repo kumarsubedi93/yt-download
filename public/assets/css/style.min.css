@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'Lexend Deca';
+    src: url(../fonts/LexendDeca-VariableFont_wght.ttf);
+}
+
+body{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    color: #2e475d;
+}
+
+.navbar {
+    background-color: #f23265 !important;
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+h1{
+    font-size: 1.25rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+ul.navbar-nav li a,
+ul.navbar-nav li a span, .left-content h1, nav i  {
+    color: #fff !important;
+}
+
+nav, .navbar-brand {
+    color: #fff !important;
+    font-weight: 700 !important;
+}
+
+.search {
+    position: relative;
+    box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+
+}
+
+.mt-25rem {
+    margin-top: 2.25rem;
+}
+
+
+.search input {
+    height: 60px;
+    text-indent: 25px;
+    border: 2px solid #d6d4d4;
+}
+
+.search input:focus {
+    box-shadow: none;
+    border: 2px solid green;
+}
+
+.search i {
+    position: absolute;
+    top: 20px;
+    left: 16px;
+    font-size: 20px;
+}
+
+.search button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 50px;
+    width: 110px;
+    background: #f23265;
+    border: 1px solid #f23265;
+
+}
+
+
+
+button.d-btn {
+    background: #f23265;
+    border: 1px solid #f23265;
+    color: #fff;
+}
+
+.d-btn i {
+    color:#fff;
+}
+
+ button:hover,  button:focus, button:visited, button:active {
+    background-color: #f23265 !important;
+    border: 1px solid #f23265 !important;
+    border-color:#f23265 !important;
+}
+
+.mb-25rem {
+    margin-bottom: 2.25rem;
+}
+
+.mt-1rem{
+    margin-top: 1rem;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.mb-4rem {
+    margin-bottom: 4rem;
+}
+
+
+.process-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.process-item {
+    flex: 0 0 32%;
+    margin-right: 5px;
+}
+
+i{
+    color:#f23265; 
+}
+
+.process-item i {
+    font-size: 3rem;
+    display: block;
+}
+
+.t-center{
+    text-align: center;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #0a4275 !important;
+}
+
