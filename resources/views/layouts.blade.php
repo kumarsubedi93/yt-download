@@ -19,8 +19,8 @@
     <meta name="description"
         content="Get free high-quality YouTube and Vimeo video thumbnails with our downloader tool. Boost your channel's visibility and attract more views. Download now for stunning visuals">
     <!-- Bootstrap core CSS -->
-    <link rel="canonical" href="https://youtubethumbdownload.com/" />
-    <meta content='https://youtubethumbdownload.com' property='og:url' />
+    <link rel="canonical" href="{{ route('home') }}" />
+    <meta content='{{ route('home') }}' property='og:url' />
     <meta content='Download high quality youtube video thumbnails for free' property='og:title' />
     <meta
         content="Get free high-quality YouTube video thumbnails with our downloader tool. Boost your channel's visibility and attract more views. Download now for stunning visuals"
@@ -55,8 +55,8 @@
                     <li class="nav-item active">
                         <a class="nav-link" href="{{ route('home') }}">Home <span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Blogs</a>
+                    {{-- <li class="nav-item">
+                        <a class="nav-link" href="#">Blogs</a> --}}
                         
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('privacy-policy') }}">Privacy Policy</a>

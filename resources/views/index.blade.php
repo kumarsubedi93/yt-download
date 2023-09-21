@@ -36,7 +36,7 @@
 
 
             <div class="blog-items">
-                <h2 class="mb-25rem"> About YouTube Video Downloader Tool </h2>
+                <h2 class="mb-25rem"> About YouTube Video Thumbnail Downloader </h2>
                 <p>
                     The video thumbnail associated with a video on platforms like YouTube is the face of the video
                     and can play an important role in whether or not a user decides to click on it.
@@ -58,16 +58,14 @@
                 </p>
 
                 <h2 class="mb-25rem"> Get Video URL </h2>
-                <img src="{{ asset('assets/images/img-1.png') }}" class="img-fluid" alt="copy url from address bar text" />
-                <div class="divider mb-10"> </div>
-                <img src="{{ asset('assets/images/img-2.png') }}" class="img-fluid" alt="copy url from share button" />
-                <p>
+                <img src="{{ asset('assets/images/youtube-blog.png') }}" class="img-fluid" alt="copy url from address bar text" />
+                <p class="mt-25rem">
                     To obtain the thumbnail, access the video first, and then copy the URL from the address bar of
                     the web browser.
                     If you are using YouTube mobile app, locate the Share button, then copy the URL to the clipboard
                     on your device.
                 </p>
-
+                
                 <h2 class="mb-25rem"> Paste URL </h2>
                 <p>
                     Paste the URL into the designated field of our thumbnail downloader, and you will instantly view
