@@ -14,16 +14,16 @@
     <meta name="theme-color" content="#ffffff">
     <meta name="robots" content="index, follow">
     <title>
-        Youtube thumbnail downloader | Download high quality youtube and vimeo video thumbnails for free 
+        Youtube Thumbnail dl | Download high quality youtube thumbnail for free
     </title>
     <meta name="description"
-        content="Get free high-quality YouTube and Vimeo video thumbnails with our downloader tool. Boost your channel's visibility and attract more views. Download now for stunning visuals">
+        content="Access high-quality YouTube thumbnails for free with our YouTube Thumbnail dl. Instantly download eye-catching video thumbnails for your needs">
     <!-- Bootstrap core CSS -->
     <link rel="canonical" href="{{ route('home') }}" />
     <meta content='{{ route('home') }}' property='og:url' />
-    <meta content='Download high quality youtube video thumbnails for free' property='og:title' />
+    <meta content='Youtube Thumbnail dl | Download high quality youtube thumbnail for free' property='og:title' />
     <meta
-        content="Get free high-quality YouTube video thumbnails with our downloader tool. Boost your channel's visibility and attract more views. Download now for stunning visuals"
+        content="Access high-quality YouTube thumbnails for free with our YouTube Thumbnail dl. Instantly download eye-catching video thumbnails for your needs"
         property='og:description' />
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZDDBGBFMCS"></script>
@@ -44,7 +44,7 @@
 <body>
     <div class="container">
         <nav class="navbar sticky-top navbar-expand-lg bg-dark">
-            <h1 class="navbar-brand"> Youtube Thumbnail Downloader </h1>
+            <h1 class="navbar-brand"> Youtube Thumbnail dl </h1>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fa fa-bars"></i>

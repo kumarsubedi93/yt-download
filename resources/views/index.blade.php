@@ -6,8 +6,8 @@
                 <thumbnail-getter />
             </div>
             <div class="process mb-25rem">
-                <h2 class="t-center"> Way to Quickly Download a YouTube Thumbnail </h2>
-                <p class="t-center mb-25rem">A Free tool for downloading YouTube and Vimeo video thumb </p>
+                <h2 class="t-center"> Way to Download a YouTube video Thumbnail </h2>
+                <p class="t-center mb-25rem">A Free tool for downloading YouTube and Vimeo video thumbnail image </p>
                 <div class="process-box">
                     <div class="process-item">
                         <i class="fas fa-plus-circle t-center"></i>
@@ -36,7 +36,7 @@
 
 
             <div class="blog-items">
-                <h2 class="mb-25rem"> About YouTube Video Thumbnail Downloader </h2>
+                <h2 class="mb-25rem"> About Youtube Thumbnail dl </h2>
                 <p>
                     The video thumbnail associated with a video on platforms like YouTube is the face of the video
                     and can play an important role in whether or not a user decides to click on it.
@@ -51,13 +51,14 @@
 
                 <p>
                     Regardless, it's nice to have a tool that can quickly retrieve and download thumbnails to your
-                    device. Our YouTube thumbnail downloader does just that. It allows you to create a thumbnail of
+                    device. Our YouTube thumbnail dl does just that. It allows you to create a thumbnail of
                     any YouTube video and download it in just a few seconds <br>
-                    (for Vimeo thumbnails, go <a href=""> here </a>) <br>
-                    Here are the following Steps to get the thumbnail on your device
+                    {{-- (for Vimeo thumbnails, go <a href=""> here </a>) <br> --}}
                 </p>
 
+                <h2 class="mb-25rem"> Here are the following Steps to get the thumbnail on your device </h3>
                 <h2 class="mb-25rem"> Get Video URL </h2>
+
                 <img src="{{ asset('assets/images/youtube-blog.png') }}" class="img-fluid" alt="copy url from address bar text" />
                 <p class="mt-25rem">
                     To obtain the thumbnail, access the video first, and then copy the URL from the address bar of
