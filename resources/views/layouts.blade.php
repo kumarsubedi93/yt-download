@@ -14,7 +14,7 @@
     <meta name="theme-color" content="#ffffff">
     <meta name="robots" content="index, follow">
     <title>
-        Youtube Thumbnail dl
+        Youtube Thumbnail dl &#9655; Save your thumbnail for free
     </title>
     <meta name="description"
         content="Access high-quality YouTube thumbnails for free with our YouTube Thumbnail dl. Instantly download eye-catching video thumbnails for your needs">
